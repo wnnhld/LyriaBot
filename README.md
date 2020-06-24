@@ -1,7 +1,5 @@
 #LyriaBot#
 
-#test#
-
 A Discord bot to aid crews in the game Granblue Fantasy. Included Functionality
 includes a search for gbf.wiki, look up character skills, and Guild Wars commands.
 
